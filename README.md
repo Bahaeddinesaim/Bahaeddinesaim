@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm SAIM Bahaeddine</h1>
 <h3 align="center">A passionate IT ENGINEERING From Oujda, MOROCCO</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Bahaeddinesaim/My-Portfolio)
+- 🔭 I’m currently working on [PFE]
+
+- 🌐 Check out my personal portfolio: [bahaeddine-saim.cpm-ehei.com](https://bahaeddine-saim.cpm-ehei.com/)
 
 - 🌱 I’m currently learning **Salesforce**
 
