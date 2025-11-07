@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAIM Bahaeddine</h1>
 <h3 align="center">A passionate IT Engineer from Oujda, Morocco</h3>
 
-- 🎓 I’m currently pursuing a **Master’s degree in Data Strategy and Governance**  
+- 🎓 I’m currently pursuing a **Master’s degree in Data Strategy and Governance**  at **EPITA - Paris**
 - 💡 I’m passionate about **Web Development, Data Management, and Digital Transformation**  
 - 🌐 Check out my personal portfolio: [bahaeddine-saim.cpm-ehei.com](https://bahaeddine-saim.cpm-ehei.com/)  
 - 📫 Reach me at **bahaeddine4info@gmail.com**
