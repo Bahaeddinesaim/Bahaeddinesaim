@@ -67,17 +67,21 @@
 <!-- Tools -->
 <h4>🛠️ Tools & Platforms</h4>
 <p align="left">
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://dynamics.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="dynamics 365" width="40" height="40"/>
+  <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahaeddinesaim&show_icons=true&locale=en&layout=compact" alt="bahaeddinesaim" /></p>
