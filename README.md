@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently pursuing a **Master’s degree in Data Strategy and Governance**  at **EPITA - Paris**
 - 💡 I’m passionate about **Web Development, Data Management, and Digital Transformation**  
-- 🌐 Check out my personal portfolio: [bahaeddine-saim.cpm-ehei.com](https://bahaeddine-saim.cpm-ehei.com/)  
+- 🌐 Check out my personal portfolio: [LINK](https://bahaeddinesaim.github.io/saimbahaeddine-portfolio/)  
 - 📫 Reach me at **bahaeddine4info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
