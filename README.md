@@ -185,23 +185,38 @@ Designed a governance framework for a merger context, combining data management,
 ---
 
 
-## 📈 GitHub Analytics
+
+## 📊 GitHub Performance
 
 <div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahaeddinesaim&theme=github_dark"
-    alt="GitHub Statistics"
-    width="400"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bahaeddinesaim&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="49%"
   />
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahaeddinesaim&theme=github_dark"
-    alt="Most Used Languages"
-    width="400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahaeddinesaim&theme=tokyonight&utcOffset=1"
+    alt="Productive Time"
+    width="49%"
   />
 
 </div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahaeddinesaim&theme=tokyonight"
+    alt="GitHub Activity Overview"
+    width="98%"
+  />
+
+</div>
+
+---
 
 ---
 
