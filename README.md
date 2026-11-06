@@ -184,44 +184,48 @@ Designed a governance framework for a merger context, combining data management,
 
 ---
 
+
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bahaeddinesaim&show_icons=true&theme=transparent&hide_border=true"
-    alt="SAIM Bahaeddine GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinesaim&layout=compact&theme=transparent&hide_border=true"
-    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api?username=bahaeddinesaim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Statistics"
+    height="170"
   />
-</p>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinesaim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+    height="170"
+  />
+
+</div>
 
 ---
 
 ## 🟡 Contribution Journey
 
-<p align="center">
+<div align="center">
+
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/bahaeddinesaim/bahaeddinesaim/output/pacman-contribution-graph-dark.svg"
-    >
+    />
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/bahaeddinesaim/bahaeddinesaim/output/pacman-contribution-graph.svg"
-    >
+    />
     <img
-      alt="Pacman contribution graph"
+      alt="Pac-Man Contribution Graph"
       src="https://raw.githubusercontent.com/bahaeddinesaim/bahaeddinesaim/output/pacman-contribution-graph.svg"
-    >
+    />
   </picture>
-</p>
 
----
+</div>
+
 
 ## 🤝 Let's Connect
 
