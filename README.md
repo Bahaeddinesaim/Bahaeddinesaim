@@ -190,18 +190,20 @@ Designed a governance framework for a merger context, combining data management,
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bahaeddinesaim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahaeddinesaim&theme=github_dark"
     alt="GitHub Statistics"
-    height="170"
+    width="400"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahaeddinesaim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahaeddinesaim&theme=github_dark"
     alt="Most Used Languages"
-    height="170"
+    width="400"
   />
 
 </div>
+
+---
 
 ---
 
